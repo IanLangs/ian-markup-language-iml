@@ -1,0 +1,6 @@
+:root {
+    -w:12px;
+}
+html {
+    z-index: var(-w);
+}
